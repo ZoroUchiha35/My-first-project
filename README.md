@@ -1,5 +1,5 @@
 # My-First-project
 
-Test
+- Test
 
-Created Using Git then pushed it
+- Created Using Git and Github Desktop then pushed it
