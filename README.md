@@ -3,4 +3,4 @@
 - Test
 
 - Created Using Git and Github Desktop then pushed it
-- Designed using nano in git.
+- Designed used nano as the code editor in Git.
